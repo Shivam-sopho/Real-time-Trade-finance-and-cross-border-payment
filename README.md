@@ -42,18 +42,36 @@ Remittance is a fund-transfer transaction wherein are moved from one account to 
 
 # Idea for Solving above issues with Hyperledger based Blockchain System
 ## Trade Finanance Using Blockchain
-
-
-## Challenges Tackled 
-
+1. Digitize the entire trade finance lifecycle with increased security and efficiency.
+2. Digitized and authenticated documentation (i.e. letters of credit and bill of lading) and KYC/AML data with real-time verification of financial documents
+3. Creation of more efficient financing structures through shared secure networks and digitized processes
+4. Our system will allow the parties required to track the transactions with ease. Using smart contracts to automate workflows and clearing calculations reducing processing time and benefit the banks by reducing errors resulting from human mistakes.
+5. Out system will allow creation of a consistent financing vehicle for the entire trade lifecycle, eliminating the legacy practice of negotiating independent finance vehicles for each stage of the trade
 
 ## Flow using Blockchain
 
 
 ## Cross Border Payments using Blockchain
+Blockchain solves these challenges by streamlining the process and storing
+every transaction in a secure distributed ledger.
+1. As soon as a transaction is recorded, the receiving party has access to the payment – no middlemen, no delays, no unnecessary fees.
+2. And once a payment is entered, it can’t be reversed or changed in the ledger, fostering greater overall accountability and security
+3. Due to decentralized network Company A in the U.S. and Company B in India see the exact same information in one place, instead of in five databases in different cities
+4. Our payment system on the blockchain will also facilitates banks to get rid of all intermediaries in the payment processing system to lower the costs to process payments between banks and clients.
+5. Here Also like Trade financing our app, will Digitized KYC/AML data and transaction history, reducing risks of fraud and enabling real-time authentication
+ Some financial institutions have outdated, and thus inefficient databases and reporting systems.
+6. Distributed ledger technology is set to revolutionize the way financial
+data is recorded and exchanged within the bank as well as between
+banks or between banks and corporates.
+7. The idea of a semi-manual data reconciliation should become obsolete when blockchain becomes interwoven into banks’ daily operations. This is because blockchains act as a database that is secure and immutable.
+8. Will every completed transaction we will store the data on the immutable decentralized network of blockchain will keep the data safe.
+9. All large amount of record keeping transaction and operations can be recorded using blockchain distributed ledgers that are unalterable and impede fraud
 
 ## Challenges tackled
-
+1. By cutting out many of the traditional middlemen, the laborious and costly process of cross border payments is simplified, thus significantly speeding up the cross-border  payment process and that at a cost much less than with the traditional banking systems.
+2. Blockchain-based trade finance can streamline the entire trading processes by getting rid of this time-consuming paperwork and bureaucracy. It eliminates the need for several copies of the same document and canintegrate all necessary information in one digital document, which is updated in real time and can be accessed by all network members.
+3. Additionally, blockchains native ability to create and transfer digital assets enhances various existing commodities trading processes outlined above.
+4. The real-time data and transactions enabled by smart contracts has the potential to reduce delays and automate manual processes. The inefficiencies throughout the commodities trade industry result in a loss of income and opportunities for businesses.
 ## Individual Flow chart for Cross Border Payments
 ![image](https://user-images.githubusercontent.com/21002170/134014624-5bd9ee64-9ec5-4117-80e4-7d9201f7cf86.png)
 
